@@ -2,7 +2,7 @@ var questions = [
     
     "Q0: What  year was disney created ?", 
     "Q1: What  was mickey mouse duck friend called?",  
-    "Q2: what was bamis rabbit pall called?",
+    "Q2: what was bambies rabbit pal called?",
     "Q3 who was snow whites enemy ",
     "Q4  what was the name of simbas dad",
     "Q5 how mant toy story films are there",
