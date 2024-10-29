@@ -4,7 +4,9 @@
     padding: 0;
 }
 body{
-    background-color: rgb(96, 96, 252); 
+   background-image: linear-gradient(rgb(16, 32, 102), rgb(111, 0, 255));
+    background-size: cover;
+ 
     color: rgb(255, 255, 255);
       font-family: 'Courier New', Courier, monospace; 
       display: flex; 
@@ -22,7 +24,11 @@ h1{
 } 
 .container{
     text-align: center;
-    background-image: linear-gradient(rgb(16, 32, 102), rgb(111, 0, 255));
+    background-image: url("../images/disney.gif");
+       background-color: rgb(96, 96, 252); 
+       background-repeat: no-repeat;
+       background-size: cover;
+ 
     display: flex;
     justify-content: center;
     align-items: center;
