@@ -139,4 +139,5 @@ function checkAnswers() {
 
 
     document.getElementById("score").innerHTML = "Score: " + counter; 
+   
 }
