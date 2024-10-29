@@ -139,5 +139,11 @@ function checkAnswers() {
 
 
     document.getElementById("score").innerHTML = "Score: " + counter; 
+
+    if (counter > 6) {
+        document.getElementById("congratulationsImage").style.display = "block"; // Show the image
+    } else {
+        document.getElementById("congratulationsImage").style.display = "none"; // Hide the image
+    }
    
 }
