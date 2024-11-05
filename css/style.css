@@ -14,11 +14,12 @@ body{
       justify-content: center; 
       height: 100vh;
       box-sizing:border-box;
+      margin-bottom: 150px;
 }
 h1{
     color:rgb(255, 255, 255);
     font-family: 'New Walt Disney Font', sans-serif;
-                                                
+    margin-top: 15px;                                            
     border-radius: 45px; 
    
 
