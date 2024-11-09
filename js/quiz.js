@@ -6,7 +6,7 @@ const questions = [
     },
     {
         question: "Who is el barto ?",
-        options: ["lenny", "bart", "mpe", "lisa"],
+        options: ["lenny", "bart", "fat tony", "millhouse"],
         answer: "bart"
     },
     {
